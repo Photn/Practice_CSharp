@@ -5,4 +5,4 @@ This repository was created to practice C# and Git.
 Feel free to use it whenever you feel like it. You can do anything you want.
 
 FindoeのProgram.csにC#でBS式での原資産価格の期待値を求めるコードを書いています(だいぶ間違っているかも)
-勝手に編集して問題ないです
+プルリクたくさん送ってくれて問題ないです
